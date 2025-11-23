@@ -1,6 +1,4 @@
-✨
 
-preview
 <h1 align="center">Hi 👋, I'm Arun Enjali</h1>
 <h3 align="center">DevOps Engineer | CI/CD • Cloud • Docker • Kubernetes • Terraform | Ex-Oracle DBAners & Infrastructure Automation</h3>
 
